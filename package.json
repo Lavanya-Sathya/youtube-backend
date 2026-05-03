@@ -1,0 +1,21 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Lavanya-Sathya/youtube-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Lavanya-Sathya/youtube-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lavanya-Sathya/youtube-backend.git"
+  },
+  "license": "ISC",
+  "author": "Lavanya Sathya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  }
+}
